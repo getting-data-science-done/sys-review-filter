@@ -1,7 +1,6 @@
 # Systematic Review Filter
 
 [![paper](https://img.shields.io/badge/arxiv-2405.20354-b31b1b)](https://arxiv.org/abs/2405.20354)
-[![page views count](https://badges.toozhao.com/badges/01HYS7AXHZQ8HX64H1K1F3379K/blue.svg)](https://github.com/getting-data-science-done/sys-review-filter)
 
 This repository contains the code and data for the paper 'Literature Filtering for Systematic Reviews with Transformers'
 
@@ -37,5 +36,21 @@ You can execute all experiments using the experiment run master script:
 The results directory contains some of the summarised results use in the
 publication.
 
+If you use the data or code from this repository in your research please
+cite the conference paper:
+
+```bibtex
+@inproceedings{hawkins+tivey:2024,
+ author = {John Hawkins and David Tivey},
+ year = {2024},
+ month = {06},
+ title = {Literature Filtering for Systematic Reviews with Transformers},
+ booktitle = {2nd International Conference on Communications, Computing and Artificial Intelligence (CCCAI 2024)},
+ address = {Jeju, Korea},
+ editor = {},
+ ISBN = {},
+ doi = {}
+}
+```
 
 
