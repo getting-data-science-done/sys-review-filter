@@ -1,0 +1,7 @@
+Population:
+
+Intervention: Partial breast radiation therapy (PBRT), also known as Partial breast radiotherapy, or accelerated partial breast radiation or Breast Cancer radiotherapy.
+
+Comparator: Whole Breast radiation therapy (WBRT), also known as external beam radiation therapy or external beam whole breast irradition.
+
+Outcome: Outcomes include local control rate, disease-free survival, overall survival, cosmesis, toxicity, and quality of life.

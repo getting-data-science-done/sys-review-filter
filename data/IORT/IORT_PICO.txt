@@ -1,0 +1,9 @@
+Population:  Patients with early stage breast cancer. Patients are 45 years or older, pathology of invasive ductal breast cancer, T1 or small T2 tumours equal to or less than 3 (three)cm, an histologic grade 1 (one) or 2 (two), estrogen (oestrogen) receptor positive, node negative, suitable for wide local excision, tumour (tumor) is unifocal.
+
+Intervention: Targeted Intraoperative Radiotherapy (T-IORT) also known as Xoft® Axxent®
+Comparator:  Zeiss Intrabeam treatment device (primary comparator)
+
+Outcome: The primary health outcome (effect) is the prevention of the local recurrence of breast cancer.  Secondary health outcomes are comparable overall survival rates, improved cosmesis and reduced toxicity.  Other outcomes include a reduced time spent in the hospital setting by the patient
+and a more rapid return to daily activities
+
+Claim: If T-IORT delivered using the Xoft®Axxent® and Intrabeam device is considered to be non-inferior to "External Beam, Whole Body Radiotherapy" (EB-WBRT), are the results of the TARGIT-A trial translatable to the anticipated patient outcomes of T-IORT if treatment was delivered using the Xoft®Axxent® device instead of the Intrabeam device?

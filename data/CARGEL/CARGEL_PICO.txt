@@ -1,0 +1,7 @@
+Population: Adult patient with cartilage (also known as Chondral, osteochondral, cartilage articular, hylaine cartilage) damage or defectCartilage AND (Damage OR Defect* OR repair, OR disease, OR restor*, OR regenera*), Chondral (Damage OR Defect* OR repair, OR disease, OR restor*, OR regenera*), Osteochondral AND (Damage OR Defect* OR repair, OR disease, OR restor*, OR regenera*) Cartilage Articular, Hylaine Cartilage Injur*, knee
+
+Intervention: Bioscaffold, BST-Cargel, BSTCARGEL, Cargel, Scaffold, 'Tissue Scaffold'
+ 
+Comparator: "Standard care" = this vague term that discribes current clinical practice. Also, at the initial screening this is avoided. Comparator screening is usually at the fulltext review.
+
+Outcome: Clinical outcomes include patient symptoms such as pain, range of motion and function, patient reported outcomes again improvements in pain, reduced stiffness and physical function and satisfaction or quality of life.

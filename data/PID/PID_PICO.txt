@@ -1,0 +1,7 @@
+Population: Adults patients with Primary Immunodeficiency (PID), also known as primary immune deficiency, primary immunodeficiency disorder, primary immune dysfunction
+
+Intervention: antibody infusion also known as intravenous immunoglobulin (IVIG) therapy, immunoglobulin replacement therapy, or immunoglobulin G (IgG) replacement therapy.
+
+Comparator: standard care also know as usual care, conventional care.
+
+Outcome: include number and frequency of infections, improvements in immune function tests, quality of life, hospitalization rate and length of stay, survival rate or mortality.

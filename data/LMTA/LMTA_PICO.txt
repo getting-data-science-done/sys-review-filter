@@ -1,0 +1,7 @@
+Population: Patients with early stage non-small cell lung cancer or patients with ologmetastic disease or receiving palliative care.
+
+Intervention: Microwave tissue ablation (MTA) also know as microwave ablation or microwave thermal ablation.
+
+Comparator: Include, radio frequency ablation, best practice radiotherapy with or without chemotherapy, surgical resection, conventional palliative therapy without MTA 
+
+Outcome: technical outcomes include reduction in lesion size, temperature of tissue during the procedure, histopathology to determine margins and complications, Imaging to determine lesion reduction. Clinical outcome include, symptom reduction e.g. pain relief, recovery time and quality of life, recurrence rate, and survival rate or extension of life.

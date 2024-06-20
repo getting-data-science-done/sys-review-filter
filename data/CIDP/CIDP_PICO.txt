@@ -1,0 +1,7 @@
+Population:  Adult patients with Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) or IgA and IgG paraprotein neuropathies also known as Chronic Relapsing Polyneuropathy (CRP),Chronic Demyelinating Polyneuropathy (CDP),Chronic Inflammatory Polyradiculoneuropathy (CIPD),Chronic Immune-Mediated Polyneuropathy (CIMP), Excluding other related immunological conditions (GBS, MS, IgM paraprotein neuropathy).
+
+Intervention: Immunoglobulin (Ig) for Chronic Inflammatory Demyelinating Polyneuropathy
+
+Comparator: plasma exchange, corticosteroids, and immunosuppressants including autologous transfer. Excluding Etanercept, Interferons, Fc receptor inhibitors, Ig capture columns.
+
+Outcome: Disability scales or Quality of life e.g. Inflammatory Neuropathy Cause and Treatment (INCAT) Disability Scale,  Neuropathy Impairment Score (NIS). Clinical testing including electrophysiology e.g. nerve conduction velocity (NCV) electromyography) 

@@ -1,0 +1,9 @@
+Population: The population includes patients with acute severe back pain ("numerical rating scale" [NRS ] ≥ 7/10) due to osteoporotic vertebral fracture with duration of less than six weeks where pain is not adequately controlled by medical therapy
+
+Intervention: The proposed intervention is vertebroplasty performed in a non-mobile fluoroscopy suite. Vertebroplasty is the injection of acrylic cement into fractured vertebrae of the spine 
+
+Comparator: The comparator for this intervention is intensified and extended conservative medical therapy, which usually consists of treatment with analgesics, including simple analgesics with or without opiates, and rest followed by aided mobilisation with or without physiotherapy.
+
+Outcome: Clinical effectiveness is defined as: Reduction in pain, short- and long-term. Reduced disability, short- and long-term. Quality of life scores, short- and long-term.	Reduced fracture deformity. Reduced duration of hospital stay. 	Reduced analgesic, namely opiate, use. 	Improved mobility.
+
+Claim: Vertebroplasty with or without conservative medical care is superior in the management of painful osteoporotic vertebral fractures compared the management of such fractures by to conservative medical care alone. 

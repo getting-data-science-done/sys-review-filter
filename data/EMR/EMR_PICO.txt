@@ -1,0 +1,7 @@
+Population: Patients with non-invasive sessile or flat superficial colorectal lesions at least 25mm (milimetres, milimeters) in diameter.
+
+Intervention: Endoscopic Mucosal Resection (EMR), applied for removal of colorectal lesions unsuitable for resection using standard endoscopic polypectomy. Lesions may be removed in a single piece (en-bloc resection) or in several pieces (piecemeal resection). EMR is performed under anaesthesia/sedation, typically as a day procedure in an outpatient clinic.
+
+Comparator: Removal of colorectal lesions by surgical resection.
+
+Outcome: Technical success rate (defined as "absence of neoplastic tissue at completion of the procedure after careful inspection of the post-EMR mucosal defect and margin."), Uptake of surgical resection in unsuccessful EMR cases (EMR only), Lesion recurrence rate (short-term and long-term recurrence), the rate of long-term colorectal cancer development, time to perform procedure, and the length of hospital stay. Safety outcomes may include, Intraprocedural complications, postprocedural complications, bleeding-related adverse events (including delayed polypectomy bleeding), deep mural injury rate (EMR only), perforation rate (EMR only), hospital presentations/admissions reported following procedure, procedure-related mortality rate.

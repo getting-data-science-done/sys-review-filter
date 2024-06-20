@@ -1,0 +1,9 @@
+Population:  Adult patients over the age of 18 years with a body mass index (BMI) of 30 to 39.9 kg/m2 with one or more comorbidities. Commorbities include: "sleep apnoea", hypertension, diabetes, "excessive abdominal weight", "lipid abmornalities", "metabolic syndrome", "cardiovascular disease", "liver disease".
+
+Intervention: Endoscopic sleeve gastroplasty (OverStitch) plus lifestyle interventions (behavioural therapy, diet and exercise) with or without pharmacotherapy.
+
+Comparator: Lifestyle interventions (behavioural therapy, diet and exercise) with or without pharmacotherapy. OR Sleeve gastrectomy or laparoscopic adjustable gastric banding plus lifestyle interventions (diet, exercise and behavioural therapy) with or without pharmacotherapy.
+
+Outcome:  durable changes (greater than 5 years) in weight lose or positive impact on comorbitities. Operative success and revisions, reversal or conversion to alterantive surgical interventions.
+
+Claim: Endoscopic sleeve gastroplasty has superior efficacy and inferior safety compared to lifestyle modification. Therefore, cost-effectiveness or a cost-utility analysis would be appropriate.
