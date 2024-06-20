@@ -1,5 +1,8 @@
 # Systematic Review Filter
 
+[![paper](https://img.shields.io/badge/arxiv-2405.20354-b31b1b)](https://arxiv.org/abs/2405.20354)
+[![page views count](https://badges.toozhao.com/badges/01HYS7AXHZQ8HX64H1K1F3379K/blue.svg)](https://github.com/getting-data-science-done/sys-review-filter)
+
 This repository contains the code and data for the paper 'Literature Filtering for Systematic Reviews with Transformers'
 
 ## Setup
